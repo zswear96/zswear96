@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A passionate frontend developer from Arkansas</h3>
 
-- 🌱 I’m currently learning **JavaScript, Node, React**
+- 🌱 I’m currently working with **JavaScript, Node, React**
 
 - 👨‍💻 All of my projects are available at [https://zach-swearingen-portfolio.netlify.app/](https://zach-swearingen-portfolio.netlify.app/)
 
